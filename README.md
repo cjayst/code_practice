@@ -1,2 +1,2 @@
 #code_practice
-- coding seill practice
+- Practice python coding
